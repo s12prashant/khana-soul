@@ -1,5 +1,5 @@
 {
-  "name": "khana-and-soul",
+  "name": "aurora-bakery",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.18",
-    "lucide-react": "^0.561.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
